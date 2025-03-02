@@ -1,0 +1,9 @@
+C:\Users\Naufal\Documents\KPL\tp3\tp3\bin\Debug\tp3.exe.config
+C:\Users\Naufal\Documents\KPL\tp3\tp3\bin\Debug\tp3.exe
+C:\Users\Naufal\Documents\KPL\tp3\tp3\bin\Debug\tp3.pdb
+C:\Users\Naufal\Documents\KPL\tp3\tp3\obj\Debug\tp3.csproj.AssemblyReference.cache
+C:\Users\Naufal\Documents\KPL\tp3\tp3\obj\Debug\tp3.Properties.Resources.resources
+C:\Users\Naufal\Documents\KPL\tp3\tp3\obj\Debug\tp3.csproj.GenerateResource.cache
+C:\Users\Naufal\Documents\KPL\tp3\tp3\obj\Debug\tp3.csproj.CoreCompileInputs.cache
+C:\Users\Naufal\Documents\KPL\tp3\tp3\obj\Debug\tp3.exe
+C:\Users\Naufal\Documents\KPL\tp3\tp3\obj\Debug\tp3.pdb
